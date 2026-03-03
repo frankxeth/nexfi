@@ -41,7 +41,6 @@ This command compiles the AssemblyScript code into WebAssembly, generating the c
 ## License
 View the license by clicking [here](https://github.com/frankxeth/NEXFI/blob/main/LICENSE.md)
 
-# HAY
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/prasseth_)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/agungprass33)
